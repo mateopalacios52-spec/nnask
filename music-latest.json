@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "packageName": "app.nnask.music",
+  "versionCode": 2,
+  "versionName": "0.1.1",
+  "minSdk": 26,
+  "sizeBytes": 6683360,
+  "sha256": "b4b18aa2c1dad2bc29874b0251a0b69f5cad9d0aea0dbbfc736ff3b04dc48e43",
+  "apkUrl": "https://github.com/mateopalacios52-spec/nnask/releases/download/music-v0.1.1/nnask-music-0.1.1.apk",
+  "notes": "Ahora nnask Music busca actualizaciones al abrir. También podés buscarlas desde Ajustes. Las versiones nuevas se instalan sobre la app actual, conservando favoritos e historial."
+}
