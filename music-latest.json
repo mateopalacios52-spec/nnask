@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "app.nnask.music",
-  "versionCode": 7,
-  "versionName": "0.1.6",
+  "versionCode": 8,
+  "versionName": "0.1.7",
   "minSdk": 26,
-  "sizeBytes": 6693780,
-  "sha256": "cbb22f32146e150876f56145247dbde9c73209efb6112bdedf4dbbaa805db9aa",
-  "apkUrl": "https://github.com/mateopalacios52-spec/nnask/releases/download/music-v0.1.6/nnask-music-0.1.6.apk",
-  "notes": "Al entrar en Buscar aparecen tus últimas canciones reproducidas. Escribí para buscar automáticamente; al borrar el texto vuelve el historial."
+  "sizeBytes": 6767436,
+  "sha256": "8d62ecabd3216893dabec2319211d8885d93943bebe372c0e33fbe521a16713b",
+  "apkUrl": "https://github.com/mateopalacios52-spec/nnask/releases/download/music-v0.1.7/nnask-music-0.1.7.apk",
+  "notes": "Letra debajo del reproductor con linea activa sincronizada, desplazamiento automatico y ajuste de tiempo. Requiere letra sincronizada disponible para esa version de la cancion."
 }
