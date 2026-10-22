@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "app.nnask.music",
-  "versionCode": 5,
-  "versionName": "0.1.4",
+  "versionCode": 6,
+  "versionName": "0.1.5",
   "minSdk": 26,
-  "sizeBytes": 6690652,
-  "sha256": "c29f54287334899471c83b8424c5906be37b2143e808a9ee88cb26d4da2761a3",
-  "apkUrl": "https://github.com/mateopalacios52-spec/nnask/releases/download/music-v0.1.4/nnask-music-0.1.4.apk",
-  "notes": "Búsqueda automática mientras escribís, desde dos letras. Inicio ahora recomienda canciones de los artistas que escuchaste, mezclando tus últimas escuchas y evitando temas repetidos."
+  "sizeBytes": 6749467,
+  "sha256": "d23bf6c90844e5a4953ab45f33f0e1f23b619238b3bec9322d7cf040f86fe29f",
+  "apkUrl": "https://github.com/mateopalacios52-spec/nnask/releases/download/music-v0.1.5/nnask-music-0.1.5.apk",
+  "notes": "Carátulas completas y de mayor resolución cuando estén disponibles. El fondo del reproductor, el botón de reproducción y la barra toman colores de la carátula, con una transición suave."
 }
