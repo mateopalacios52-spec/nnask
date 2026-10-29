@@ -1,14 +1,14 @@
 {
-  "tv": {
-    "code": 2,
-    "url": "https://github.com/mateopalacios52-spec/nnask/releases/download/remote/nnask-remote-tv.apk",
-    "size": 39168,
-    "sha256": "f4437e8eef57a30087b8d25a989688c75fc84176d625d3590ba6bae2d6ad23c6"
-  },
   "phone": {
-    "code": 2,
-    "url": "https://github.com/mateopalacios52-spec/nnask/releases/download/remote/nnask-remote.apk",
-    "size": 31848,
-    "sha256": "923d38e542da8ea04f6e3e575e2d581618f3b0ef72321384b8d484baf8c98d41"
+    "code": 3,
+    "url": "https://github.com/mateopalacios52-spec/nnask/releases/download/remote-envios/nnask-remote.apk",
+    "size": 35912,
+    "sha256": "a85f85c33b4381c22d907af83e4acd90ab7b59160c3d9d4ebbcf96e10a6e7323"
+  },
+  "tv": {
+    "code": 3,
+    "url": "https://github.com/mateopalacios52-spec/nnask/releases/download/remote-envios/nnask-remote-tv.apk",
+    "size": 43528,
+    "sha256": "b4a27c3be228e4afdbf014cb8e2dbf1aa433f5af7b8e0ebecae25b0b88864dba"
   }
 }
