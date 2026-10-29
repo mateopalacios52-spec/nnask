@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "packageName": "app.nnask.music",
-  "versionCode": 8,
-  "versionName": "0.1.7",
+  "versionCode": 9,
+  "versionName": "0.2.0",
   "minSdk": 26,
-  "sizeBytes": 6767436,
-  "sha256": "8d62ecabd3216893dabec2319211d8885d93943bebe372c0e33fbe521a16713b",
-  "apkUrl": "https://github.com/mateopalacios52-spec/nnask/releases/download/music-v0.1.7/nnask-music-0.1.7.apk",
-  "notes": "Letra debajo del reproductor con linea activa sincronizada, desplazamiento automatico y ajuste de tiempo. Requiere letra sincronizada disponible para esa version de la cancion."
+  "sizeBytes": 7258363,
+  "sha256": "0e6237284633f817fb22f214fe793a673f39d6f2b7b76649377d234b3a0fe7df",
+  "apkUrl": "https://github.com/mateopalacios52-spec/nnask/releases/download/music-v0.2.0/nnask-music-0.2.0.apk",
+  "notes": "Siguiente reproduce temas relacionados. Busqueda de videos y versiones con letras, subtitulos CC disponibles y playlists locales para crear, guardar y ordenar canciones."
 }
